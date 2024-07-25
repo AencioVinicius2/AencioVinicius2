@@ -5,8 +5,8 @@
 ##
 
 <div align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=AencioVinicius2&show_icons=true&theme=dark"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AencioVinicius2&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" width="380em" src="https://github-readme-stats.vercel.app/api?username=AencioVinicius2&show_icons=true&theme=dark"/>
+  <img height="140em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AencioVinicius2&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Technologies I am learning and using on my work
