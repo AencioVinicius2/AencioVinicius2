@@ -9,7 +9,7 @@
   <img height="140em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AencioVinicius2&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Technologies I am learning and using on my work
+## Technologies I am learning and using at my work
 
 <div style="display:inline_block"><br>
 
