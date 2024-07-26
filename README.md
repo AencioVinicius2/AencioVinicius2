@@ -6,7 +6,11 @@
 
 <div align="center">
   <img height="120em" width="380em" src="https://github-readme-stats.vercel.app/api?username=AencioVinicius2&show_icons=true&theme=dark"/>
-  <img height="140em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AencioVinicius2&layout=compact&langs_count=7&theme=dark"/>
+  <!--
+  <img height="140em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AencioVinicius2&layout=compact&langs_count=7&theme=dark"/>-->
+
+   <img height="140em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=dark"/>
+
 </div>
 
 ## Technologies I am learning and using at my work
@@ -35,6 +39,8 @@
   
   <img align="center" alt="DJANGO" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   
+  <img align="center" alt="FEDORA" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
+
   <img align="center" alt="TOTVS" height="50px" src="https://camo.githubusercontent.com/9eb42146b6f405d87cacdb309251273eaa0d3b5871e8f83a64d19cfb12773a03/68747470733a2f2f6173736574732d676c6f62616c2e776562736974652d66696c65732e636f6d2f3632343230323235396364653036376565306130663034382f3633613237666435326330333633383537376565626236385f746f7476732e706e67"/>
 </div><br/>
 
