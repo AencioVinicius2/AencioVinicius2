@@ -12,9 +12,9 @@
 ##
 
 <div align="center">
-  <img height="120em" width="380em" src="https://github-readme-stats.vercel.app/api?username=AencioVinicius2&show_icons=true&theme=dark"/>
+  <img height="190em" width="380em" src="https://github-readme-stats.vercel.app/api?username=AencioVinicius2&show_icons=true&theme=dark"/>
   
-  <img height="140em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AencioVinicius2&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AencioVinicius2&layout=compact&langs_count=7&theme=dark"/>
 
   <!--
    <img height="240em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AencioVinicius2&theme=dark"/>-->
@@ -55,7 +55,7 @@
 
   <img align="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>   
 
-  ### 👩‍💻 - IDEs and Tools:
+  ### 👩‍💻- IDEs and Tools:
   
   <img align="center" alt="FEDORA" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
 
@@ -67,7 +67,7 @@
 
   <img align="center" alt="VSSTUDIO" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 
-  ### Company where i'm currently working for
+  ### 🏢- Company where i'm currently working for
 
   <img align="center" alt="TOTVS" height="50px" src="https://camo.githubusercontent.com/9eb42146b6f405d87cacdb309251273eaa0d3b5871e8f83a64d19cfb12773a03/68747470733a2f2f6173736574732d676c6f62616c2e776562736974652d66696c65732e636f6d2f3632343230323235396364653036376565306130663034382f3633613237666435326330333633383537376565626236385f746f7476732e706e67"/>
 </div><br/>
