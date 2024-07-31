@@ -1,5 +1,8 @@
 ### Hi! i'm Aencio Vinicius 🤠
 
+![](https://komarev.com/ghpvc/?username=AencioVinicius2&style=for-the-badge)
+
+##
 
 ### 📱- Contact
 
