@@ -30,7 +30,7 @@
 
   ### 💻- Frontend:
 
-  <img align="center" alt="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img align="center" alt="ANGULAR" src="https://img. io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 
   <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
@@ -48,15 +48,15 @@
 
   <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   
-  <img align="center" alt="DJANGO" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
+  <img align="center" alt="FASTAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white"/>
 
-  <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
-  
   ### ⚡- Database:
 
   <img align="center" alt="SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>   
 
-  <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>   
+  <img align="center" alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>   
+
+  <img align="center" alt="FIREBASE" src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white"/>   
 
   <img align="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>   
 
@@ -74,7 +74,7 @@
 
   ### 🏢- Company where i'm currently working for
 
-  <img align="center" alt="TOTVS" height="50px" src="https://camo.githubusercontent.com/9eb42146b6f405d87cacdb309251273eaa0d3b5871e8f83a64d19cfb12773a03/68747470733a2f2f6173736574732d676c6f62616c2e776562736974652d66696c65732e636f6d2f3632343230323235396364653036376565306130663034382f3633613237666435326330333633383537376565626236385f746f7476732e706e67"/>
+  <img align="center" alt="TOTVS" height="50px" src="https://logodownload.org/wp-content/uploads/2019/12/totvs-logo-4.png"/>
 </div><br/>
 
 
