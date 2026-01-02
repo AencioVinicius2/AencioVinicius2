@@ -1,6 +1,6 @@
 ### Hi! i'm Aencio Vinicius 🤠
 
-![](https://komarev.com/ghpvc/?username=AencioVinicius2&style=for-the-badge)
+[![Aencio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AencioVinicius)](https://github.com/AencioVinicius/github-readme-stats)
 
 ##
 
