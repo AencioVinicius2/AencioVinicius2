@@ -2,6 +2,8 @@
 
 [![Aencio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AencioVinicius2)](https://github.com/AencioVinicius2/github-readme-stats)
 
+![AencioVinicius2's GitHub stats](https://github-readme-stats.vercel.app/api?username=AencioVinicius2&show_icons=true&theme=transparent)
+
 ##
 
 ### 📱- Contact
