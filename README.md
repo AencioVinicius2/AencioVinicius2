@@ -1,6 +1,6 @@
 ### Hi! i'm Aencio Vinicius 🤠
 
-[![Aencio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AencioVinicius)](https://github.com/AencioVinicius/github-readme-stats)
+[![Aencio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AencioVinicius2)](https://github.com/AencioVinicius2/github-readme-stats)
 
 ##
 
