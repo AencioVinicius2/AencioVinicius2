@@ -14,7 +14,7 @@
 
 <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AencioVinicius2)](https://github.com/AencioVinicius2/github-readme-stats)
+
 
 </div>
 
@@ -24,7 +24,7 @@
 
   ### 💻- Frontend:
 
-  <img align="center" alt="ANGULAR" src="https://img. io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img align="center" alt="VUE" src=""/>
 
   <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
