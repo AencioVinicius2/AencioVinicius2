@@ -1,18 +1,5 @@
 ### Hi! i'm Aencio Vinicius 🤠
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AencioVinicius2&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AencioVinicius2&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=AencioVinicius2&show_icons=true" />
-</picture>
-##
-
 ### 📱- Contact
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aencio-vinicius-4057a825b/)
@@ -23,13 +10,11 @@
 
 ##
 
-<div align="center">
-  <img height="190em" width="380em" src="https://github-readme-stats.vercel.app/api?username=AencioVinicius2&show_icons=true&theme=dark"/>
-  
-  <img height="200em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AencioVinicius2&layout=compact&langs_count=7&theme=dark"/>
+<!-- Github stats -->
 
-  <!--
-   <img height="240em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AencioVinicius2&theme=dark"/>-->
+<div align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AencioVinicius2)](https://github.com/AencioVinicius2/github-readme-stats)
 
 </div>
 
@@ -81,9 +66,6 @@
 
   <img align="center" alt="VSSTUDIO" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 
-  ### 🏢- Company where i'm currently working for
-
-  <img align="center" alt="TOTVS" height="50px" src="https://logodownload.org/wp-content/uploads/2019/12/totvs-logo-4.png"/>
 </div><br/>
 
 
