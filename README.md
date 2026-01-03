@@ -14,7 +14,9 @@
 
 <div align="center">
 
-
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AencioVinicius2&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AencioVinicius2&theme=radical)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AencioVinicius2&theme=radical)
 
 </div>
 
